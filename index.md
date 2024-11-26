@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: flex-start; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
     <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px; width: 150px;">
       <img src="https://gabrielmaldonado.dev/wp-content/uploads/2024/11/1024x1024_export_pork8x8.png" alt="Pixelette app" style="margin-bottom: 10px;">
-      <a href="work-in-progress" target="_blank" style="display: inline-block;">
+      <a href="https://apple.co/4fVYaLa" target="_blank" style="display: inline-block;">
         <img src="https://gabrielmaldonado.dev/wp-content/uploads/2024/10/Screenshot-2024-10-27-at-21.17.01.png" alt="Download Pixelette on the App Store" style="width: 100px; height: auto;">
       </a>
     </div>
