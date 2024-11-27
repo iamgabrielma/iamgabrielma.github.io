@@ -1,3 +1,10 @@
+# Hello!
+
+-  [GitHub](https://github.com/iamgabrielma)
+-  [LinkedIn](https://www.linkedin.com/in/gabrielmaldonad/)
+-  [X](https://x.com/iamgabrielma)
+-  [Blog](https://iamgabrielma.beehiiv.com)
+
 ## Apps
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
