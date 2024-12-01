@@ -23,7 +23,11 @@
         Pixelette is a minimalistic pixel editor for iOS that lets you create stunning 8x8 pixel art with ease! Unlock achievements, share your creations, and elevate your pixel art game with premium features.
       </p>
       <ul>
-        <li>Currently in progress. Still not available in the App Store.</li>
+        <li>Easy-to-Use Canvas: Start drawing on an 8x8 grid that’s perfect for creating icons, game sprites, or pixel-perfect art.</li>
+        <li>Advanced Color Picker: Choose from a wide array of colours with an intuitive color picker that supports opacity adjustments.</li>
+<li>Editing Tools: Use the paintbrush and eraser tools to refine your artwork. Toggle grid lines on or off to focus on your art or for meticulous editing.</li>
+<li>Export and Share: Save your creations to your device or share them directly on social media platforms</li>
+<li>Achievements: Track your progress and challenge yourself to reach new artistic heights</li>
       </ul>
     </div>
   </div>
