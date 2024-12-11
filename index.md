@@ -11,6 +11,28 @@
 
 <div style="display: flex; align-items: flex-start; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
     <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px; width: 150px;">
+      <img src="/assets/icon-512-dumb-gym-app.png" alt="Dumb Gym app" style="margin-bottom: 10px;">
+      <a href="https://apple.co/4felq6e" target="_blank" style="display: inline-block;">
+        <img src="/assets/apple-store-download-badge.png" alt="Download Dumb Gym on the App Store" style="width: 100px; height: auto;">
+      </a>
+    </div>
+    <div>
+      <h2>Workout Tracker: Dumb Gym</h2>
+      <img src="/assets/screenshots-dumb-gym.png" alt="Dumb Gym app preview" style="margin-bottom: 10px;">
+      <p>
+        Track workouts and meals. No-nonsense fitness app that cuts through the noise. Log, and crush your fitness goals effortlessly.
+      </p>
+      <ul>
+        <li>Log workouts in seconds with intuitive, quick-entry interfaces.</li>
+        <li>Capture every rep, set, and exercise with minimal friction.</li>
+        <li>Track progress without complicated menus or endless taps.</li>
+<li>Record healthy and unhealthy meals with ease</li>
+      </ul>
+    </div>
+  </div>
+
+<div style="display: flex; align-items: flex-start; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px; width: 150px;">
       <img src="/assets/icon-512-pixelette-app.png" alt="Pixelette app" style="margin-bottom: 10px;">
       <a href="https://apple.co/4fVYaLa" target="_blank" style="display: inline-block;">
         <img src="/assets/apple-store-download-badge.png" alt="Download Pixelette on the App Store" style="width: 100px; height: auto;">
